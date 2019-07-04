@@ -1,0 +1,17 @@
+body {
+    
+    background-image: url("astronaught.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+
+  p { 
+    color:white;
+    content: 20px;
+  }
+
+  h1, h3, h2 { 
+
+    color: white;
+  }
